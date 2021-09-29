@@ -1,0 +1,2 @@
+D:\study\progStudy\codeWarsStringXOsearch\Debug\codeWarsStringXOsearch.exe
+D:\study\progStudy\codeWarsStringXOsearch\Debug\codeWarsStringXOsearch.pdb

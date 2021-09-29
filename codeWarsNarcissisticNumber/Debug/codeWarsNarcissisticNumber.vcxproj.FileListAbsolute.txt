@@ -1,0 +1,2 @@
+D:\study\progStudy\codeWarsNarcissisticNumber\Debug\codeWarsNarcissisticNumber.exe
+D:\study\progStudy\codeWarsNarcissisticNumber\Debug\codeWarsNarcissisticNumber.pdb
